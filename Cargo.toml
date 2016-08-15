@@ -1,0 +1,8 @@
+[package]
+name = "pag"
+version = "0.0.1"
+authors = ["kahwai"]
+
+[dependencies]
+twox-hash = "1.0"
+rand = "0.3"
